@@ -1,5 +1,5 @@
 # Clonesy
-An Etsy clone created with ASP.NET! You can view a database of items published which includes a simple ratings system.
+An Etsy clone created with ASP.NET! You can view a database of items which includes a simple ratings system.
 
 ## Tutorial
 - [ASP.NET Tutorial](https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro)
